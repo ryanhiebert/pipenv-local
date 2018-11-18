@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[[source]]
+name = "aspiredu"
+verify_ssl = true
+url = "https://pypi.fury.io/OHXIw-9Umgf3jlbpG5ULSp97w456Q/aspiredu/"
+
+[dev-packages]
+
+[packages]
+django-cleanup = "*"
+
+[requires]
+python_version = "3.7"

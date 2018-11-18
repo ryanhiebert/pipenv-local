@@ -1,0 +1,33 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "a1162dba4d383f6f7924058142a87bc04355d6e68529b0c51d14743a32316fb6"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            },
+            {
+                "name": "aspiredu",
+                "url": "https://pypi.fury.io/OHXIw-9Umgf3jlbpG5ULSp97w456Q/aspiredu/",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django-cleanup": {
+            "hashes": [
+                "sha256:53316b04b9c91725fce9eac252cdc762a988b5a1640aeee8ab43048ccf9d98bd"
+            ],
+            "index": "pypi",
+            "version": "==3.0.1"
+        }
+    },
+    "develop": {}
+}
